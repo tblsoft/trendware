@@ -1,0 +1,70 @@
+{
+  "Shop": {
+    "Bekleidung": {
+      "Damen": {
+        "Oberteile": ["T-Shirts", "Blusen", "Sweatshirts", "Pullover"],
+        "Unterteile": ["Jeans", "Röcke", "Shorts", "Hosen"],
+        "Kleider": ["Freizeitkleider", "Abendkleider", "Sommerkleider"],
+        "Jacken": ["Lederjacken", "Daunenjacken", "Blazer", "Mäntel"],
+        "Loungewear": ["Jogginghosen", "Pyjamas", "Leggings"]
+      },
+      "Herren": {
+        "Oberteile": ["T-Shirts", "Hemden", "Sweatshirts", "Pullover"],
+        "Unterteile": ["Jeans", "Shorts", "Chinos", "Jogginghosen"],
+        "Anzüge": ["Business-Anzüge", "Freizeit-Anzüge", "Smoking"],
+        "Jacken": ["Lederjacken", "Daunenjacken", "Blazer", "Mäntel"],
+        "Loungewear": ["Jogginghosen", "Pyjamas"]
+      },
+      "Kinder": {
+        "Oberteile": ["T-Shirts", "Sweatshirts", "Pullover"],
+        "Unterteile": ["Jeans", "Shorts", "Hosen"],
+        "Kleider": ["Freizeitkleider", "Partykleider"],
+        "Jacken": ["Regenjacken", "Winterjacken", "Mäntel"]
+      }
+    },
+    "Accessoires": {
+      "Schmuck": ["Halsketten", "Armbänder", "Ohrringe", "Ringe"],
+      "Taschen": ["Handtaschen", "Rucksäcke", "Gürteltaschen", "Clutches"],
+      "Schals & Tücher": ["Winterschals", "Seidenschals", "Bandanas"],
+      "Hüte & Mützen": ["Baseballcaps", "Wintermützen", "Sommerhüte"],
+      "Gürtel": ["Leder", "Textil", "Designer"]
+    },
+    "Schuhe": {
+      "Damen": {
+        "Stiefel": ["Winterstiefel", "Regenstiefel", "Chelsea Boots"],
+        "Sneaker": ["Freizeit-Sneaker", "Laufschuhe", "High-Tops"],
+        "Absatzschuhe": ["Pumps", "Stilettos", "Sandaletten"]
+      },
+      "Herren": {
+        "Stiefel": ["Chelsea Boots", "Chukka Boots", "Winterstiefel"],
+        "Sneaker": ["Freizeit-Sneaker", "Laufschuhe", "High-Tops"],
+        "Business-Schuhe": ["Oxfords", "Derbys", "Loafers"]
+      },
+      "Kinder": {
+        "Stiefel": ["Gummistiefel", "Winterstiefel"],
+        "Sneaker": ["Freizeit-Sneaker", "Laufschuhe"],
+        "Sandalen": ["Sommer-Sandalen", "Outdoor-Sandalen"]
+      }
+    },
+    "Spezialitäten": {
+      "Nachhaltige Mode": {
+        "Bekleidung": ["Bio-Baumwolle", "Recycelte Materialien", "Fair Trade"],
+        "Schuhe": ["Vegane Schuhe", "Recycelte Materialien"],
+        "Accessoires": ["Nachhaltige Taschen", "Schmuck aus recycelten Materialien"]
+      },
+      "Vintage & Retro": {
+        "Bekleidung": ["Vintage Kleider", "Retro-T-Shirts", "Vintage Jeans"],
+        "Schuhe": ["Retro Sneaker", "Vintage Stiefel"],
+        "Accessoires": ["Vintage Taschen", "Retro Sonnenbrillen"]
+      },
+      "Personalisierbare Produkte": {
+        "Bekleidung": ["Individuelle T-Shirts", "Personalisierte Hoodies"],
+        "Accessoires": ["Monogramm Taschen", "Gravierte Schmuckstücke"]
+      },
+      "Technische Bekleidung": {
+        "Bekleidung": ["Beheizbare Jacken", "UV-abweisende Kleidung"],
+        "Schuhe": ["Wasserdichte Schuhe", "Atmungsaktive Sneaker"]
+      }
+    }
+  }
+}
