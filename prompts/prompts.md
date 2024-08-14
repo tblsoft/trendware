@@ -12,8 +12,43 @@ This section will walk you through the steps taken to generate the data, providi
 Whether you're looking to replicate the process or simply understand the mechanics behind it, this section covers all you need to know.
 
 [Download generated products.json](../shop/data/products.json)
+
+
+```json
+[
+    {
+        "id": "3266243",
+        "title": "Vintage Sommerkleid mit Logo Urban - Weiß - Loose Fit",
+        "sku": "3266243",
+        "price": 20.99,
+        "size": "M",
+        "color": "weiß",
+        "category": "Schuhe/Herren/Sneaker",
+        "image": "https://qsc.quasiris.de/cdn/qsc/demo/trendware/shop/data/img/3266243.jpg",
+        "material": [
+            "Leder"
+        ],
+        "style": "sportlich"
+    }
+]
+```
 [Download generated taxonomy.json](../shop/data/taxonomy.json)
 
+```json
+{
+  "Shop": {
+    "Bekleidung": {
+      "Damen": {
+        "Oberteile": ["T-Shirts", "Blusen", "Sweatshirts", "Pullover"],
+        "Unterteile": ["Jeans", "Röcke", "Shorts", "Hosen"],
+        "Kleider": ["Freizeitkleider", "Abendkleider", "Sommerkleider"],
+        "Jacken": ["Lederjacken", "Daunenjacken", "Blazer", "Mäntel"],
+        "Loungewear": ["Jogginghosen", "Pyjamas", "Leggings"]
+      }
+    }
+  }
+}
+```
 
 ```
 Ich habe einen Online Shop für Mode. Was soll ich verkaufen?
